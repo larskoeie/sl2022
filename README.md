@@ -10,4 +10,4 @@ De to tilsluttede telefoner sidder i serie med spændingsforsyningen og med en l
 Når begge telefonrør er løftet, løber en lille strøm igennem dem. Denne strøm giver en lille spænding over seriemodstanden. Spændingen tænder LEDen i optokobleren, 
 
 ## Software
-- Når spænindge
+Når spændingen på indgangen falder, opfattes det som en puls. Så længe spædningen er lav mellem 5 og 150ms og høj mellem 12 og 30ms, tælles pulserne. Hvis der går længere tid, opfattes det som et nyt ciffer. Hvis der går kortere tid, opfattes det som støj på linjen. Denne støj ignoreres. 
