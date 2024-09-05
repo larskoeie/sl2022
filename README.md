@@ -1,6 +1,6 @@
 # SL2022
 
-## Sådan bruges apparatetet
+## Sådan bruges apparatet
 - Apparatet skal forsynes med 12V DC på den brune og blå ledning. Polariteten er ligegyldig.
 - Når begge telefonrør er løftet, kan der tales igennem telefonerne.
 - Når begge telefonrør er løftet, vises der på displayet, hvilke telefonnumre, der drejes på telefonerne. 
